@@ -1,0 +1,23 @@
+Question: Who mentions proficiency with HTML5, CSS, and JavaScript?
+Answer:
+Based on the provided context, the candidate's name or identity is not mentioned. The resume lists proficiency with HTML5, CSS, and JavaScript ("Experienced"), but does not specify who the resume belongs to.
+Question: Who mentions proficiency with HTML5, CSS, and JavaScript?
+Answer:
+Based on the provided context, no candidate's name or identity is mentioned. The resume context only lists the skills—noting "HTML5, CSS, JavaScript Experienced"—without specifying who they belong to.
+Question: Who has professional experience as a Personal Trainer or fitness coach?
+Answer:
+Based on the provided context, the candidate's name is not mentioned. However, the candidate represented in the resume has professional experience as a **Personal Fitness Trainer** at **Crunch Fitness, New York** from February 2021 to March 2022.
+Question: Which candidate is a registered Nutrition Consultant?
+Answer:
+Based on the provided resume, the candidate is **Julie Monroe**. 
+
+During her role at DaVita Delmas (Jan 2016 — Nov 2019), she is noted as a **Registered Nutrition Consultant/Educator** (and Registered Dietitian/Nutrition Consultant).
+Question: Which candidate is fluent in English, French, and German?
+Answer:
+Based on the provided resume, **Mia Allen** is fluent in English, French, and German.
+Question: Which candidate has experience using Adobe ?
+Answer:
+Based on the provided context, no candidate name or identifier is mentioned. However, the candidate whose resume skills are listed possesses "Adobe Suite" at an "Expert" level.
+Question: Who has experience working at Amazon
+Answer:
+Based on the provided resume, **Jason Miller** has experience working at Amazon as an Amazon Warehouse Associate (from January 2021 to July 2022).
