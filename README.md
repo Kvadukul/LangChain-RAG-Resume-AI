@@ -10,7 +10,7 @@ An automated Retrieval Augmented Generation (RAG) pipeline built as an AI powere
 | :--- | :--- |
 | **`PyPDFDirectoryLoader`** | Loads all the PDFs from the specified folder so the script can use the whole directory at once. |
 | **`RecursiveCharacterTextSplitter`** | Splits the data (PDFs/CVs) into smaller sections so relative info is found quicker. |
-| **`Chroma` & Embeddings** | Stores splits and calculations; converts text into specialized code/embeddings via Gemini so the AI understands it. |
+| **`Chroma` & Embeddings** | Stores splits and calculations; converts text into specialised code/embeddings via Gemini so the AI understands it. |
 | **`ChatGoogleGenerativeAI`** | Connects Gemini (gemini-3.8-flash) to the code (temperature=0 to ensure no excess info is printed). |
 | **`ChatPromptTemplate`** | Formats the prompt containing context (relevant data chunks) and input (user question). |
 | **`format_docs`** | Helper function checking Chroma storage, grabbing text from chunks, and joining lists of texts back into readable sentences. |
